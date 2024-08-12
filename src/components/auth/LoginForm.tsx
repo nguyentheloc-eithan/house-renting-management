@@ -30,7 +30,7 @@ export const LoginForm = () => (
       onFinishFailed={onFinishFailed}
       autoComplete="off">
       <Form.Item<FieldType>
-        label="Email/ So dien thoai"
+        label="Email"
         name="username"
         rules={[{ required: true, message: 'Please input your username!' }]}>
         <Input />
