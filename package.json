@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@ant-design/cssinjs": "^1.21.0",
+    "@supabase/supabase-js": "^2.45.1",
     "@types/nprogress": "^0.2.3",
     "antd": "^5.20.1",
     "clsx": "^2.1.1",
